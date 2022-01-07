@@ -24,7 +24,7 @@ function capturar(){
 }
 var basedatos=[];
 function capturar(){
-  console.log("capturar")
+  -console.log("capturar")
 }
 
    
